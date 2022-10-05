@@ -1,0 +1,23 @@
+body{
+    background-color: #1d1050;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#card{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 80px;
+    text-align: center;
+    border-color: rgb(0, 255, 42);
+}
+
+.navbar {
+    border-bottom: solid 1px rgb(192, 2, 250);
+}
+
+.form-control{
+    border-color:rgb(0, 0, 0);
+}
+.card-header{
+    background-color: rgb(17, 17, 17);
+}
